@@ -28,4 +28,5 @@ class M_prodi extends CI_Model{
 	}
 
 
+	
 }
